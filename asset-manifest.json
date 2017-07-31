@@ -1,0 +1,22 @@
+{
+  "main.css": "static/css/main.a675a2e6.css",
+  "main.css.map": "static/css/main.a675a2e6.css.map",
+  "main.js": "static/js/main.040a0c3c.js",
+  "main.js.map": "static/js/main.040a0c3c.js.map",
+  "static/media/check-mark-black.svg": "static/media/check-mark-black.a4360be8.svg",
+  "static/media/check-mark-white.svg": "static/media/check-mark-white.b7559d6b.svg",
+  "static/media/download-white.svg": "static/media/download-white.7c512c6d.svg",
+  "static/media/download.svg": "static/media/download.4657729c.svg",
+  "static/media/pause-white.svg": "static/media/pause-white.e5218cae.svg",
+  "static/media/pause.svg": "static/media/pause.da2e59f8.svg",
+  "static/media/play-white.svg": "static/media/play-white.e996a641.svg",
+  "static/media/play.svg": "static/media/play.5894e976.svg",
+  "static/media/plus-black.svg": "static/media/plus-black.c637f30e.svg",
+  "static/media/plus-white.svg": "static/media/plus-white.1a4fd5f1.svg",
+  "static/media/reset-black.svg": "static/media/reset-black.31e57574.svg",
+  "static/media/reset-white.svg": "static/media/reset-white.550d82d5.svg",
+  "static/media/shuffle-black.svg": "static/media/shuffle-black.d0eed865.svg",
+  "static/media/shuffle-white.svg": "static/media/shuffle-white.10e88693.svg",
+  "static/media/trash-black.svg": "static/media/trash-black.64d92b6f.svg",
+  "static/media/trash-white.svg": "static/media/trash-white.99aee330.svg"
+}
